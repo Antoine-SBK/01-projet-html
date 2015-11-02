@@ -1,5 +1,10 @@
-* {
-  background-color: grey;
+body {
+  background-image :url(http://images.123hdwallpapers.com/20150423/grey-linux-wallpaper-1920x1200.jpg);
+  color: lightgrey;
+}
+
+div {
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 h1 {
