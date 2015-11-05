@@ -1,38 +1,44 @@
 body {
-  background-image :url(http://visuels.l214.com/sites/www.l214.com/2014/pages/lapins-Matthieu-Ricard/fond-d-ecran-06.jpg);
+  background-image: url(http://visuels.l214.com/sites/www.l214.com/2014/pages/lapins-Matthieu-Ricard/fond-d-ecran-06.jpg);
   color: lightgrey;
 }
-
 .Structure {
-width: 25%;
-height: 25%;
-margin-left: auto;
-margin-right: auto;
+  width: 25%;
+  height: 25%;
+  margin-left: auto;
+  margin-right: auto;
 }
-
 div {
   background-color: rgba(0, 0, 0, 0.7);
-width: 50%;
-height: 50%;
-margin-left: auto;
-margin-right: auto;
+  width: 50%;
+  height: 50%;
+  margin-left: auto;
+  margin-right: auto;
 }
-
 h1 {
   text-align: center;
+  font-family: cursive;
   color: black;
 }
-
 h2 {
   color: black;
   text-align: center;
+  font-family: cursive;
 }
 h3 {
   text-align: center;
   color: black;
-
+  font-family: cursive;
 }
-
 p {
   text-align: center;
+  font-family: purisa;
+}
+p b {
+  font-family: cursive;
+}
+img {
+  margin-left: 40%;
+  width: 20%;
+  height: 20%;
 }
