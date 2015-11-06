@@ -2,6 +2,9 @@
   body {
     background-image: url(http://visuels.l214.com/sites/www.l214.com/2014/pages/lapins-Matthieu-Ricard/fond-d-ecran-06.jpg);
     color: lightgrey;
+    font-size:62.5%;
+    background-position: center center;
+    background-size: cover;
   }
   .Structure {
     width: 50%;
