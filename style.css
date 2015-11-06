@@ -44,3 +44,9 @@ img {
   width: 20%;
   height: 20%;
 }
+.bouton {
+  background-color:black;
+  font-size: 1.2em;
+  border-radius: 5px;
+
+}
