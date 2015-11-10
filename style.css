@@ -1,5 +1,5 @@
 body {
-  background-image: url(http://visuels.l214.com/sites/www.l214.com/2014/pages/lapins-Matthieu-Ricard/fond-d-ecran-06.jpg);
+  background-image: url(http://photos.up-wallpaper.com/images252/wp1lbbm1hvq.jpg);
   color: lightgrey;
 }
 .Structure {
@@ -7,6 +7,9 @@ body {
   height: 25%;
   margin-left: auto;
   margin-right: auto;
+}
+.Structure p {
+  font-family: cursive;
 }
 div {
   background-color: rgba(0, 0, 0, 0.7);
@@ -34,7 +37,6 @@ p {
   text-align: center;
   font-family: purisa;
   line-height: 3;
-
 }
 p b {
   font-family: cursive;
@@ -45,8 +47,7 @@ img {
   height: 20%;
 }
 .bouton {
-  background-color:black;
+  background-color: black;
   font-size: 1.2em;
   border-radius: 5px;
-
 }
